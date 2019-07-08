@@ -2,7 +2,7 @@
   "name": "rdcd",
   "displayName": "RDCD",
   "description": "RDCD theme is a reduced color scheme for syntax highlighting and minimal theme for VSCode",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "author": "Shoizz (https://github.com/Shoizz)",
   "publisher": "Shoizz",
   "engines": {

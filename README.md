@@ -8,7 +8,7 @@ RDCD theme is a reduced color scheme for syntax highlighting and minimal theme f
 
 Some elements of the code that can add visual noise are using only one color with lower luminosity than context meaningful parts because additional colors add additional cognitive work to process. With RDCD syntax, just two colors are used + one additional color for comments and unused instances.
 
-All signals (errors, modifications, alerts, etc.) instead of using colors with intensive luminosity to make it easily visible.
+All signals (errors, modifications, alerts, etc.) are using colors with intensive luminosity to make it easily visible.
 
 ## Features
 
