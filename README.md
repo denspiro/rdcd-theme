@@ -32,7 +32,7 @@ WCAG 2.0 Contrast Ratio AAA
 
 Luminosity Contrast Ratio: 10.61:1
 
-_____________________________________________________
+----------------------------------------------------
 
 Secondary syntax color: #89a0c3
 
