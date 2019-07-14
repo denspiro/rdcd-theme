@@ -44,6 +44,6 @@ Luminosity Contrast Ratio: 6.65:1
 
 Luminosity Contrast Ratio greater than 7:1 for AAA, 4.5:1 for AA
 
-### Inspiration
+## Inspiration
 
 Inspired by [cocopon – iceberg.vim](https://github.com/cocopon/iceberg.vim)
