@@ -1,3 +1,5 @@
+#
+
 ![RDCD](images/banner.png)
 
 RDCD theme is a reduced color scheme for syntax highlighting and minimal theme for VSCode
@@ -20,9 +22,9 @@ All signals (errors, modifications, alerts, etc.) are using colors with intensiv
 
 * Supported: Javascript, Typescript, HTML, CSS, Go, C, C++, Java, Python (probably some other languages as well)
 
-## Characteristics
+## Some Characteristics
 
-### Dimmed desaturated
+### Main colors used for syntax highlighting
 
 Primary syntax color: #c6c8d0
 Background: #161820
