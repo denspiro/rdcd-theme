@@ -22,27 +22,31 @@ All signals (errors, modifications, alerts, etc.) are using colors with intensiv
 
 * Supported: Javascript, Typescript, HTML, CSS, Go, C, C++, Java, Python (probably some other languages as well)
 
-## Some Characteristics
+## Main colors used for syntax highlighting
 
-### Main colors used for syntax highlighting
+Primary syntax color: #c6c8d0
 
-**Primary syntax color:** #c6c8d0
+Background: #161820
 
-**Background:** #161820
+WCAG 2.0 Contrast Ratio AAA
 
-**WCAG 2.0 Contrast Ratio:** AAA
-
-**Luminosity Contrast Ratio:** 10.61:1
+Luminosity Contrast Ratio: 10.61:1
 
 
 
-**Secondary syntax color:** #89a0c3
 
-**Background:** #161820
 
-**WCAG 2.0 Contrast Ratio:** AA
+Secondary syntax color: #89a0c3
 
-**Luminosity Contrast Ratio:** 6.65:1
+Background: #161820
+
+WCAG 2.0 Contrast Ratio: AA
+
+Luminosity Contrast Ratio: 6.65:1
+
+
+
+
 
 **Luminosity Contrast Ratio greater than 7:1 for AAA, 4.5:1 for AA**
 
