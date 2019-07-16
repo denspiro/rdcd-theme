@@ -2,38 +2,35 @@
   "name": "rdcd",
   "displayName": "RDCD",
   "description": "RDCD theme is a reduced color scheme for syntax highlighting and minimal theme for VSCode",
-  "version": "0.0.9",
-  "author": "Shoizz (https://github.com/Shoizz)",
-  "publisher": "Shoizz",
+  "version": "0.1.0",
   "engines": {
-    "vscode": "^1.31.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Shoizz/rdcd-theme.git"
+    "vscode": "^1.36.0"
   },
   "categories": [
     "Themes"
   ],
+  "contributes": {
+    "themes": [{
+      "label": "RDCD",
+      "uiTheme": "vs-dark",
+      "path": "./themes/rdcd-color-theme.json"
+    }]
+  },
+  "author": "Shoizz (https://github.com/Shoizz)",
+  "publisher": "Shoizz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shoizz/rdcd-theme.git"
+  },
   "icon": "images/icon.png",
   "galleryBanner": {
     "color": "#161820",
     "theme": "dark"
   },
   "homepage": "https://github.com/Shoizz/rdcd-theme",
-  "contributes": {
-    "themes": [
-      {
-        "label": "RDCD",
-        "uiTheme": "vs-dark",
-        "path": "./themes/rdcd-theme.json"
-      }
-    ]
-  },
   "bugs": {
     "url": "https://github.com/Shoizz/rdcd-theme/issues"
   },
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
